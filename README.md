@@ -1,1 +1,1 @@
-# terraform-modules-aws-lambda-api-gw-jwt-authorizer
+# AWS Lambda API Gateway JWT Authorizer Terraform Module
