@@ -7,10 +7,10 @@
     "aws-jwt-verify": "^5.1.1"
   },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.161",
-    "@types/node": "^25.9.1",
-    "@aws-sdk/client-cognito-identity-provider": "^3.1057.0",
-    "esbuild": "^0.28.0"
+    "@types/aws-lambda": "^8.10.162",
+    "@types/node": "^26.0.1",
+    "@aws-sdk/client-cognito-identity-provider": "^3.1077.0",
+    "esbuild": "^0.28.1"
   },
   "scripts": {
     "build": "esbuild src/index.ts --bundle --minify --platform=node --target=node24 --outdir=dist"
